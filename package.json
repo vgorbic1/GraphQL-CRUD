@@ -10,7 +10,7 @@
   "author": "Vlad Gorbich",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": ">=0.21.2",
     "express": "^4.16.3",
     "express-graphql": "^0.6.12",
     "graphql": "^0.13.2",
